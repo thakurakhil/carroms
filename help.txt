@@ -1,0 +1,30 @@
+
+
+Game Instructions:
+-----------------------
+
+1. The Game is between two players namely player1 and player2 [MULTIPLAYER]
+2. The game begins with player1
+3. The collisions are "inelastic" , "friction is present".
+4. The coin which the player's striker collides with(for the first time ) is the choice color of that player and the other color would correspond to other player
+5. If the player toucher other color coin directly he/she would bear a penalty of "1" point
+6. If striker falls into the hole -5 points
+7. If the player pockets coin of other color his score would decrease by 5
+8. For each second that passes the player would bear a penalty of "1" point
+9. The game begins with initial score of 30 points.
+10. If any coin comes in the way of striker before striker is executed(i.e. on the lane where striker is executed) the striker doesnot overlap with the coin, instead it adjusts itself.
+
+
+Game Controls:
+----------------
+
+keyboard:
+1. Press UP_KEY to increase the power, DOWN_KEY to decrease power.
+2. Press LEFT_KEY or RIGHT_KEY to move the striker.
+3. Press a or  c to change direction
+4. space to execute the striker
+
+mouse:
+1. Press Down Right click to move the striker
+2. Press Down left Click to adjust power and direction , release left click to execute.
+
